@@ -1,0 +1,15 @@
+.header_container {
+  padding: 2rem 3rem;
+  display: flex;
+  background-color: #ffffff;
+  border-bottom: 4px double #ececec;
+}
+.header_logo_container {
+  width: 40%;
+}
+.header_nav_container {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
