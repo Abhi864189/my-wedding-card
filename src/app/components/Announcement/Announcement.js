@@ -13,7 +13,6 @@ const Announcement = () => {
       </div>
       <div className={styles.announcement_heading_container_saveData}>
         <h2>Save the Date</h2>
-        <h
       </div>
     </div>
   );
