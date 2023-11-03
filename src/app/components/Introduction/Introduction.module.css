@@ -1,0 +1,64 @@
+.introduction_container {
+  padding: 8rem;
+}
+.introduction_container_sub_container {
+  background-color: #eff5f3;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+.groom_container,
+.bride_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.introduction_image {
+  display: flex;
+}
+.introduction_image img {
+  width: 100%;
+}
+.introduction_description_groom {
+  padding: 3rem;
+  text-align: left;
+}
+
+.introduction_description_bride {
+  padding: 3rem;
+  text-align: right;
+}
+.introduction_description_groom h2 {
+  font-family: "Dosis", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+.introduction_description_groom p {
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #767878;
+  margin: 10px 0;
+  line-height: 2.8rem;
+}
+.introduction_description_groom h3 {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+.introduction_description_bride h2 {
+  font-family: "Dosis", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+.introduction_description_bride p {
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #767878;
+  margin: 10px 0;
+  line-height: 2.8rem;
+}
+.introduction_description_bride h3 {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-size: 2.5rem;
+}

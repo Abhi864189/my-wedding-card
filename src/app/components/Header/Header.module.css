@@ -1,5 +1,5 @@
 .header_container {
-  padding: 2rem 3rem;
+  padding: 2rem 8rem;
   display: flex;
   background-color: #ffffff;
   border-bottom: 4px double #ececec;
@@ -12,4 +12,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.header_nav {
+  font-family: "Dosis", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #413d3d;
+  text-transform: uppercase;
 }
